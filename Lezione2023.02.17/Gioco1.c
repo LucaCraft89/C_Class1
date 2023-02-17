@@ -4,8 +4,8 @@
 
 int main()
 {
-    int n, t, m, lp;
-    char c='y';
+    int n, t, m, lp; // n = numero random, t = è qua per fare presenza, m =  numero inserito dall'utente, lp = variabile per loop
+    char c='y'; //Carattere per la conferma di riprova
     while (c=='y' || c=='Y'){
         srand(time(NULL));
         n = rand()%100+1;
