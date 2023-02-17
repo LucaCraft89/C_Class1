@@ -1,6 +1,17 @@
 # J.F.Kennedy Gruppo STA ABEH AS2223_Q2_G04_IA
 Repository ufficiale del Gruppo STA ABEH AS2223_Q2_G04_IA per le lezioni e programmazione con codespaces
 
+## Come accedere al codespace
+
+NOTA BENE: Per accedere al codespace bisogna possedere di un accout Github con e-mail verificata
+
+- Step 1: Dopo aver eseguito l'accesso al vostro accout Github Preme sul teato verde con scritto "Code"
+- Step 2: Premere sulla scheda "Codespaces"
+- Step 3: Premere sul nome del codespace
+
+Come in figura:
+![Codespace](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/f2jozgwGbtakBtC?file=/&fileId=490&x=1920&y=1200&a=true)
+
 ## Come Usare Il Template
 
 Usiamo codespaces che si integra con VS Code.
