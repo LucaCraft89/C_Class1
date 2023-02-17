@@ -17,9 +17,11 @@ Utilizziamo un compilatore installato nel codespace (GCC)
 
 Come Compilare ed eseguire:
 
-- Step 1: Premere il tasto play con una piccola coccinella in alto a destra sullo schermo con il file aperto a schermo
+- Step 1: Premere il tasto play con una piccola coccinella in alto a destra sullo schermo con il file aperto a schermo come indicato in figura
 - Step 2: Nella parte inferiore dello schermo si aprirà un terminale quindi aspettare qualche secondo 
 - Step 3: Ora il programma è in esecuzione ed una volta terminato l'output è situato nella scheda "Terminal" o "Terminale" nella parte inferiore dello schermo
+
+![Compilatore](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/PxYie5aom8YCXk8?file=/&fileId=479&x=1920&y=1200&a=true)
 
 ## Authors
 
