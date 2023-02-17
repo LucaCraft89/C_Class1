@@ -10,7 +10,7 @@ int main()
         srand(time(NULL));
         n = rand()%100+1;
         printf("Cercare di indovinare il numero compreso fra 1 e 100\n");
-        printf("%d", n); printf("\n");
+        printf("per questioni test questo è il numero: "); printf("%d", n); printf("\n");
         for (lp = 2; lp > -1; lp--)
         {
             if(lp==2){
