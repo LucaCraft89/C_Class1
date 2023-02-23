@@ -1,0 +1,104 @@
+2023-02-23T14:30:47.322Z [debug] [main] Safe constructing new CMakeProject instance
+2023-02-23T14:30:47.326Z [debug] [variant] Constructing VariantManager
+2023-02-23T14:30:47.330Z [debug] [main] Constructing new CMakeProject instance
+2023-02-23T14:30:47.332Z [debug] [main] Starting CMake Tools second-phase init
+2023-02-23T14:30:47.955Z [info] [variant] Loaded new set of variants
+2023-02-23T14:30:48.224Z [debug] [kit] Not reading non-existent kits file: /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
+2023-02-23T14:30:48.240Z [debug] [kit] Not reading non-existent kits file: /home/admin/.vscode/cmake-kits.json
+2023-02-23T14:30:48.252Z [debug] [main] CMakeProject instance initialization complete.
+2023-02-23T14:30:48.801Z [info] [kit] Detected kits definition version change from undefined to 2. Silently scanning for kits.
+2023-02-23T14:30:48.808Z [debug] [kitsController] Rescanning for kits
+2023-02-23T14:30:48.809Z [debug] [kit] Scanning for Kits on system
+2023-02-23T14:30:48.813Z [debug] [kit] Scanning directory /tmp/code-server/lib/code-server-4.8.3/lib/vscode/bin/remote-cli for compilers
+2023-02-23T14:30:48.814Z [debug] [kit] Scanning directory /usr/local/sbin for compilers
+2023-02-23T14:30:48.815Z [debug] [kit] Scanning directory /usr/local/bin for compilers
+2023-02-23T14:30:48.816Z [debug] [kit] Scanning directory /usr/sbin for compilers
+2023-02-23T14:30:48.817Z [debug] [kit] Scanning directory /usr/bin for compilers
+2023-02-23T14:30:48.818Z [debug] [kit] Scanning directory /sbin for compilers
+2023-02-23T14:30:48.818Z [debug] [kit] Scanning directory /bin for compilers
+2023-02-23T14:30:48.819Z [debug] [kit] Scanning directory /tmp/coder.9I5kbV for compilers
+2023-02-23T14:30:48.820Z [debug] [kit] Skipping scan of not existing path undefined\LLVM\bin
+2023-02-23T14:30:48.820Z [debug] [kit] Found 0 kits in directory undefined\LLVM\bin
+2023-02-23T14:30:48.826Z [debug] [kit] Found 0 kits in directory /tmp/code-server/lib/code-server-4.8.3/lib/vscode/bin/remote-cli
+2023-02-23T14:30:48.828Z [debug] [kit] Found 0 kits in directory /usr/local/sbin
+2023-02-23T14:30:48.828Z [debug] [kit] Found 0 kits in directory /usr/local/bin
+2023-02-23T14:30:48.863Z [debug] [kit] Found 0 kits in directory /usr/sbin
+2023-02-23T14:30:48.894Z [debug] [kit] Found 0 kits in directory /sbin
+2023-02-23T14:30:48.895Z [debug] [kit] Found 0 kits in directory /tmp/coder.9I5kbV
+2023-02-23T14:30:48.906Z [debug] [kit] Testing GCC binary: /usr/bin/c89-gcc
+2023-02-23T14:30:48.910Z [info] [proc] Executing command: /usr/bin/c89-gcc -v
+2023-02-23T14:30:48.933Z [debug] [kit] Testing GCC binary: /usr/bin/c99-gcc
+2023-02-23T14:30:48.935Z [info] [proc] Executing command: /usr/bin/c99-gcc -v
+2023-02-23T14:30:48.979Z [debug] [kit] Testing GCC binary: /usr/bin/gcc
+2023-02-23T14:30:48.981Z [info] [proc] Executing command: /usr/bin/gcc -v
+2023-02-23T14:30:49.001Z [debug] [kit] Testing GCC binary: /usr/bin/gcc-11
+2023-02-23T14:30:49.004Z [info] [proc] Executing command: /usr/bin/gcc-11 -v
+2023-02-23T14:30:49.108Z [debug] [kit] Testing GCC binary: /usr/bin/x86_64-linux-gnu-gcc
+2023-02-23T14:30:49.114Z [info] [proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc -v
+2023-02-23T14:30:49.138Z [debug] [kit] Testing GCC binary: /usr/bin/x86_64-linux-gnu-gcc-11
+2023-02-23T14:30:49.141Z [info] [proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc-11 -v
+2023-02-23T14:30:49.192Z [debug] [kit] Testing GCC binary: /bin/c89-gcc
+2023-02-23T14:30:49.194Z [info] [proc] Executing command: /bin/c89-gcc -v
+2023-02-23T14:30:49.213Z [debug] [kit] Testing GCC binary: /bin/c99-gcc
+2023-02-23T14:30:49.216Z [info] [proc] Executing command: /bin/c99-gcc -v
+2023-02-23T14:30:49.254Z [debug] [kit] Testing GCC binary: /bin/gcc
+2023-02-23T14:30:49.257Z [info] [proc] Executing command: /bin/gcc -v
+2023-02-23T14:30:49.277Z [debug] [kit] Testing GCC binary: /bin/gcc-11
+2023-02-23T14:30:49.279Z [info] [proc] Executing command: /bin/gcc-11 -v
+2023-02-23T14:30:49.393Z [debug] [kit] Testing GCC binary: /bin/x86_64-linux-gnu-gcc
+2023-02-23T14:30:49.395Z [info] [proc] Executing command: /bin/x86_64-linux-gnu-gcc -v
+2023-02-23T14:30:49.414Z [debug] [kit] Testing GCC binary: /bin/x86_64-linux-gnu-gcc-11
+2023-02-23T14:30:49.416Z [info] [proc] Executing command: /bin/x86_64-linux-gnu-gcc-11 -v
+2023-02-23T14:30:49.537Z [debug] [kit] Detected GCC compiler: /bin/x86_64-linux-gnu-gcc-11
+2023-02-23T14:30:49.544Z [debug] [kit] Detected GCC compiler: /bin/x86_64-linux-gnu-gcc
+2023-02-23T14:30:49.550Z [debug] [kit] Detected GCC compiler: /bin/gcc-11
+2023-02-23T14:30:49.555Z [debug] [kit] Detected GCC compiler: /bin/gcc
+2023-02-23T14:30:49.561Z [debug] [kit] Detected GCC compiler: /bin/c99-gcc
+2023-02-23T14:30:49.567Z [debug] [kit] Detected GCC compiler: /bin/c89-gcc
+2023-02-23T14:30:49.573Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-linux-gnu-gcc-11
+2023-02-23T14:30:49.579Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-linux-gnu-gcc
+2023-02-23T14:30:49.585Z [debug] [kit] Detected GCC compiler: /usr/bin/gcc-11
+2023-02-23T14:30:49.590Z [debug] [kit] Detected GCC compiler: /usr/bin/gcc
+2023-02-23T14:30:49.595Z [debug] [kit] Detected GCC compiler: /usr/bin/c99-gcc
+2023-02-23T14:30:49.602Z [debug] [kit] Detected GCC compiler: /usr/bin/c89-gcc
+2023-02-23T14:30:49.629Z [debug] [kit] Testing GCC binary: /bin/c99-gcc
+2023-02-23T14:30:49.632Z [info] [proc] Executing command: /bin/c99-gcc -v
+2023-02-23T14:30:49.649Z [debug] [kit] Testing GCC binary: /bin/c89-gcc
+2023-02-23T14:30:49.651Z [info] [proc] Executing command: /bin/c89-gcc -v
+2023-02-23T14:30:49.669Z [debug] [kit] Testing GCC binary: /usr/bin/c99-gcc
+2023-02-23T14:30:49.671Z [info] [proc] Executing command: /usr/bin/c99-gcc -v
+2023-02-23T14:30:49.689Z [debug] [kit] Testing GCC binary: /usr/bin/c89-gcc
+2023-02-23T14:30:49.692Z [info] [proc] Executing command: /usr/bin/c89-gcc -v
+2023-02-23T14:30:49.770Z [debug] [kit] Detected GCC compiler: /usr/bin/c99-gcc
+2023-02-23T14:30:49.776Z [debug] [kit] Detected GCC compiler: /bin/c89-gcc
+2023-02-23T14:30:49.782Z [debug] [kit] Detected GCC compiler: /bin/c99-gcc
+2023-02-23T14:30:49.828Z [debug] [kit] Found 6 kits in directory /bin
+2023-02-23T14:30:49.890Z [debug] [kit] Detected GCC compiler: /usr/bin/c89-gcc
+2023-02-23T14:30:49.909Z [debug] [kit] Found 6 kits in directory /usr/bin
+2023-02-23T14:30:49.910Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.911Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.912Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.912Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.913Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.913Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.914Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.914Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.914Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.915Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.915Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.916Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-23T14:30:49.920Z [debug] [kitsController] Saving kits to /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
+2023-02-23T14:30:49.921Z [debug] [kitsController] Saving new kits to /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
+2023-02-23T14:30:50.726Z [debug] [extension] [1881] cmake.buildType started
+2023-02-23T14:30:50.730Z [debug] [extension] [1881] cmake.buildType finished (returned "Debug")
+2023-02-23T14:30:51.046Z [debug] [extension] [5663] cmake.buildDirectory started
+2023-02-23T14:30:51.050Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-23T14:30:51.051Z [debug] [extension] [5663] cmake.buildDirectory finished (returned null)
+2023-02-23T14:33:08.782Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-23T14:33:41.977Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-23T14:33:45.022Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-23T14:33:46.899Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-23T14:34:04.702Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-23T14:37:13.501Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-23T14:37:20.510Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-23T14:37:42.405Z [debug] [main] Not starting CMake driver: no kit selected
