@@ -1,0 +1,23 @@
+[2023-02-24 08:15:52.829] [exthost] [info] Extension host with pid 115767 started
+[2023-02-24 08:15:52.933] [exthost] [info] Lock '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock': Lock acquired.
+[2023-02-24 08:15:53.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-02-24 08:15:53.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-02-24 08:15:53.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-02-24 08:15:53.757] [exthost] [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: fredericbonnet.cmake-test-adapter
+[2023-02-24 08:15:53.930] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2023-02-24 08:15:54.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-02-24 08:15:54.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-02-24 08:15:54.611] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*', root cause: fredericbonnet.cmake-test-adapter
+[2023-02-24 08:15:55.714] [exthost] [info] ExtensionService#_doActivateExtension fredericbonnet.cmake-test-adapter, startup: true, activationEvent: '*'
+[2023-02-24 08:15:56.393] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: false, activationEvent: 'api', root cause: fredericbonnet.cmake-test-adapter
+[2023-02-24 08:16:02.512] [exthost] [warning] DiagnosticCollection with name 'C/C++' does already exist.
+[2023-02-24 08:16:03.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-24 08:16:03.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-24 08:16:03.060] [exthost] [info] Eager extensions activated
+[2023-02-24 08:16:20.846] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-02-24 08:16:20.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-02-24 08:16:23.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2023-02-24 08:20:44.544] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock'
+[2023-02-24 08:20:44.544] [exthost] [info] Lock '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock': The lock was lost unexpectedly.
+[2023-02-24 08:20:44.545] [exthost] [error] Error: ENOENT: no such file or directory, utime '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock'
+[2023-02-24 08:20:44.545] [exthost] [info] Lock '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock': Could not update mtime.

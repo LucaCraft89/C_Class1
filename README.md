@@ -3,23 +3,27 @@ Repository ufficiale del Gruppo STA ABEH AS2223_Q2_G04_IA per le lezioni e progr
 
 ## Come accedere al codespace
 
-NOTA BENE: Per accedere al codespace bisogna possedere di un accout Github con e-mail verificata
+NOTA BENE: Le credenziali sono fornite da [@LucaCraft89](https://github.com/LucaCraft89)
 
-- Step 1: Dopo aver eseguito l'accesso al vostro accout Github Preme sul teato verde con scritto "Code"
-- Step 2: Premere sulla scheda "Codespaces"
-- Step 3: Premere sul nome del codespace
+ - Step 1. Digitare nella barra degl indirizzi del browser ![https://code.dallh2o.com](https://code.dallh2o.com)
+ - Step 2. Digitare le proprie credenziali e premere **[ENTER]** oppure premere su **[Sign In]**
+ - Step 3. Una volta eseguito l'accesso preme sul Workspace con il proprio nome 
+ - Step 4. Quindi premere su ![code-server](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/73WYC8Ec4zz9cyC?file=/&fileId=531&x=1920&y=1200&a=true)
+ - Step 5. Cominciare a scrivere codice
+
 
 Come in figura:
-![Codespace](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/f2jozgwGbtakBtC?file=/&fileId=490&x=1920&y=1200&a=true)
+![Codespace]()
 
 ## Come Usare Il Template
 
-Usiamo codespaces che si integra con VS Code.
+Usiamo Coder che si integra con VS Code.
 
 Per creare un nuovo file con il template seguente all'interno del codespace:
 
 - Step 1. Creare un nuovo file con estensione ".c"
-- Step 2. all'interno del file dicitare "c" senza virgolette e premere il tasto **[TAB]**
+- Step 2. all'interno del file dicitare "c" senza virgolette e premere contemporaneamente i tast **[CTRL]** e **[SPACE]**
+- Step 3. apparirà un menu quindi premere il tasto **[TAB]**
 - Infine apparirà il template di esempio in C per iniziare a scrivere codice comodamente
 
 ## Come eseguire Complilare ed eseguire il file
