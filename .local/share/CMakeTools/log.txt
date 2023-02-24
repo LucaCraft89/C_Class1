@@ -79,16 +79,17 @@
 2023-02-24T08:26:23.497Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:26:33.440Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:27:05.262Z [debug] [main] Not starting CMake driver: no kit selected
-d Kit: GCC 11.3.0 x86_64-linux-gnu
-2023-02-23T14:30:49.914Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
-2023-02-23T14:30:49.914Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
-2023-02-23T14:30:49.915Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
-2023-02-23T14:30:49.915Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
-2023-02-23T14:30:49.916Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
-2023-02-23T14:30:49.920Z [debug] [kitsController] Saving kits to /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
-2023-02-23T14:30:49.921Z [debug] [kitsController] Saving new kits to /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
-2023-02-23T14:30:50.726Z [debug] [extension] [1881] cmake.buildType started
-2023-02-23T14:30:50.730Z [debug] [extension] [1881] cmake.buildType finished (returned "Debug")
+2023-02-24T08:27:19.593Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:27:37.712Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:27:40.730Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:27:42.759Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:28:04.840Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:28:40.104Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:28:44.592Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:28:46.175Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:28:48.025Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:28:49.268Z [debug] [main] Not starting CMake driver: no kit selected
+ed "Debug")
 2023-02-23T14:30:51.046Z [debug] [extension] [5663] cmake.buildDirectory started
 2023-02-23T14:30:51.050Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-23T14:30:51.051Z [debug] [extension] [5663] cmake.buildDirectory finished (returned null)

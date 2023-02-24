@@ -11,10 +11,6 @@ NOTA BENE: Le credenziali sono fornite da [@LucaCraft89](https://github.com/Luca
  - Step 4. Quindi premere su ![code-server](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/73WYC8Ec4zz9cyC?file=/&fileId=531&x=1920&y=1200&a=true)
  - Step 5. Cominciare a scrivere codice
 
-
-Come in figura:
-![Codespace]()
-
 ## Come Usare Il Template
 
 Usiamo Coder che si integra con VS Code.

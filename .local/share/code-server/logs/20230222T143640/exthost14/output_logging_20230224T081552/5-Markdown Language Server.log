@@ -2106,3 +2106,46 @@
 [Trace 08:27:01.802] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
 [Trace 08:27:05.240] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
 [Debug 08:27:05.793] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 640
+[Trace 08:27:16.345] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:27:20.364] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:27:20.758] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 640
+[Trace 08:27:34.603] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:27:34.603] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:27:34.840] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:27:34.841] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:27:34.989] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:27:34.990] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:27:35.240] LinkProvider: compute - file:///home/admin/README.md
+[Trace 08:27:35.341] DocumentSymbolProvider: provideDocumentSymbols — file:///home/admin/README.md 643
+[Debug 08:27:35.341] TableOfContentsProvider: create - file:///home/admin/README.md
+[Debug 08:27:35.392] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 643
+[Trace 08:27:35.413] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:27:35.413] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:27:35.668] LinkProvider: compute - file:///home/admin/README.md
+[Trace 08:27:35.770] DocumentSymbolProvider: provideDocumentSymbols — file:///home/admin/README.md 644
+[Debug 08:27:35.770] TableOfContentsProvider: create - file:///home/admin/README.md
+[Debug 08:27:35.808] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 644
+[Trace 08:27:36.993] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:27:36.993] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:27:37.218] LinkProvider: compute - file:///home/admin/README.md
+[Trace 08:27:37.341] DocumentSymbolProvider: provideDocumentSymbols — file:///home/admin/README.md 645
+[Debug 08:27:37.341] TableOfContentsProvider: create - file:///home/admin/README.md
+[Debug 08:27:37.398] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 645
+[Trace 08:27:37.698] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:27:38.380] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/admin/.local/share/code-server/User/History/-462f2a3/uFQI.md
+[Debug 08:27:38.779] LinkProvider: compute - file:///home/admin/README.md
+[Trace 08:27:40.679] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:27:42.751] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:27:43.417] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:27:43.798] VsCodeClientWorkspace: TextDocument.onDidOpen: git:/home/admin/README.md?%7B%22path%22%3A%22%2Fhome%2Fadmin%2FREADME.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 08:27:43.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: git:/home/admin/README.md?%7B%22path%22%3A%22%2Fhome%2Fadmin%2FREADME.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 08:27:43.800] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:27:43.800] LinkProvider: compute - file:///home/admin/README.md
+[Debug 08:27:43.817] LinkProvider: compute - git:/home/admin/README.md?%7B%22path%22%3A%22%2Fhome%2Fadmin%2FREADME.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 08:27:50.705] VsCodeClientWorkspace: TextDocument.onDidClose: git:/home/admin/README.md?%7B%22path%22%3A%22%2Fhome%2Fadmin%2FREADME.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 08:27:50.705] VsCodeClientWorkspace: deleteDocument: git:/home/admin/README.md?%7B%22path%22%3A%22%2Fhome%2Fadmin%2FREADME.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 08:27:50.863] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:28:25.716] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:28:25.970] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 645
+[Debug 08:28:25.970] TableOfContentsProvider: create - file:///home/admin/README.md
+[Trace 08:28:29.384] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
