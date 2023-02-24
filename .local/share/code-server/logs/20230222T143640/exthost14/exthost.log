@@ -22,3 +22,7 @@
 [2023-02-24 08:20:44.545] [exthost] [error] Error: ENOENT: no such file or directory, utime '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock'
 [2023-02-24 08:20:44.545] [exthost] [info] Lock '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock': Could not update mtime.
 [2023-02-24 08:26:37.777] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2023-02-24 08:32:16.233] [exthost] [error] actual command NOT FOUND _vscode_delegate_cmd_lei9duq7 undefined
+[2023-02-24 08:32:19.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2023-02-24 08:32:19.559] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2023-02-24 08:32:19.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
