@@ -41,5 +41,3 @@ Come Compilare ed eseguire:
 ## Authors
 
 - [@LucaCraft89](https://github.com/LucaCraft89)
-
-
