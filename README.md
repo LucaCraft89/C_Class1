@@ -8,7 +8,7 @@ NOTA BENE: Le credenziali sono fornite da [@LucaCraft89](https://github.com/Luca
  - Step 1. Digitare nella barra degl indirizzi del browser [https://code.dallh2o.com](https://code.dallh2o.com)
  - Step 2. Digitare le proprie credenziali e premere **[ENTER]** oppure premere su **[Sign In]**
  - Step 3. Una volta eseguito l'accesso preme sul Workspace con il proprio nome 
- - Step 4. Quindi premere su ![code-server](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/73WYC8Ec4zz9cyC?file=/&fileId=531&x=1920&y=1200&a=true)
+ - Step 4. Quindi premere su ![code-server](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/73WYC8Ec4zz9cyC?file=/&fileId=531&x=1920&y=1200&a=true =111x30)
  - Step 5. Cominciare a scrivere codice
 
 ## Come Usare Il Template

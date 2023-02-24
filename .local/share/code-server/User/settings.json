@@ -11,5 +11,6 @@
     ],
     "cmake.buildArgs": [
         "-lm"
-    ]
+    ],
+    "git.autofetch": true
 }
