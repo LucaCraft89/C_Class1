@@ -2149,3 +2149,6 @@
 [Debug 08:28:25.970] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 645
 [Debug 08:28:25.970] TableOfContentsProvider: create - file:///home/admin/README.md
 [Trace 08:28:29.384] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:29:04.073] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:29:04.406] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 645
+[Trace 08:29:16.277] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
