@@ -34,10 +34,6 @@ Come Compilare ed eseguire:
 
 ![Compilatore](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/PxYie5aom8YCXk8?file=/&fileId=479&x=1920&y=1200&a=true)
 
-## IMPORTANTE
-
-**Si prega di creare una cartella per ogni nuovo progetto in modo da non innondare la Root della Repository, Grazie**
-
 ## Authors
 
 - [@LucaCraft89](https://github.com/LucaCraft89)
