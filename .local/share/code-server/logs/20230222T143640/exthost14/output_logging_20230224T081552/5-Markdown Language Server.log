@@ -2098,3 +2098,8 @@
 [Debug 08:26:21.766] TableOfContentsProvider: create - file:///home/admin/README.md
 [Trace 08:26:22.123] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
 [Trace 08:26:23.490] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:26:27.761] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:26:35.897] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:26:35.898] LinkProvider: compute - file:///home/admin/README.md
+[Debug 08:26:36.299] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 640
+[Debug 08:26:36.299] TableOfContentsProvider: create - file:///home/admin/README.md

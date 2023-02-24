@@ -21,3 +21,4 @@
 [2023-02-24 08:20:44.544] [exthost] [info] Lock '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock': The lock was lost unexpectedly.
 [2023-02-24 08:20:44.545] [exthost] [error] Error: ENOENT: no such file or directory, utime '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock'
 [2023-02-24 08:20:44.545] [exthost] [info] Lock '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock': Could not update mtime.
+[2023-02-24 08:26:37.777] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

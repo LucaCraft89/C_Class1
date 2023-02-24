@@ -1,0 +1,44 @@
+Readme
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'C_Class1/main' by 5 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .local/share/CMakeTools/log.txt
+#	new file:   .local/share/code-server/CachedExtensions/user
+#	new file:   .local/share/code-server/User/History/-462f2a3/CXGf.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/GLcb.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/IGCL.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/J4ej.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/KQsG.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/LYpU.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/MgbI.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/NDNa.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/Sc4P.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/Vc09.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/cmCW.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/entries.json
+#	new file:   .local/share/code-server/User/History/-462f2a3/kfvf.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/qML2.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/t51I.md
+#	new file:   .local/share/code-server/User/History/-462f2a3/yuxW.md
+#	new file:   .local/share/code-server/User/History/57be4aa0/Wf3n
+#	modified:   .local/share/code-server/User/History/57be4aa0/entries.json
+#	modified:   .local/share/code-server/User/caches/CachedConfigurations/folder/-25ad7322/configuration.json
+#	modified:   .local/share/code-server/User/workspaceStorage/-525686eb/ms-vscode.cpptools/.browse.VC.db
+#	new file:   .local/share/code-server/User/workspaceStorage/-525686eb/ms-vscode.cpptools/.browse.VC.db-shm
+#	new file:   .local/share/code-server/User/workspaceStorage/-525686eb/ms-vscode.cpptools/.browse.VC.db-wal
+#	new file:   .local/share/code-server/logs/20230222T143640/exthost14/exthost.log
+#	new file:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/1-remote-attach.log
+#	new file:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/2-Git.log
+#	new file:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/3-Test Explorer.log
+#	new file:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/4-CMakeBuild.log
+#	new file:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/5-Markdown Language Server.log
+#	modified:   README.md
+#
+# Changes not staged for commit:
+#	modified:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/2-Git.log
+#
