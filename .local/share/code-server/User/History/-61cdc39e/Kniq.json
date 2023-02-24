@@ -2,18 +2,20 @@
   "C_Cpp_Runner.cCompilerPath": "/bin/gcc",
   "C_Cpp_Runner.cppCompilerPath": "/bin/g++",
   "C_Cpp_Runner.cStandard": "c17",
-  "C_Cpp_Runner.cppStandard": "c++20",
+  "C_Cpp_Runner.cppStandard": "",
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.warnings": [
     "-Wall",
     "-Wextra",
     "-Wpedantic",
-    "-lm"
+    "-lm",
+    "-std=c17"
   ],
   "C_Cpp_Runner.enableWarnings": true,
   "C_Cpp_Runner.warningsAsError": false,
   "C_Cpp_Runner.compilerArgs": [
-    "-lm"
+    "-lm",
+    "-std=c17"
   ],
   "C_Cpp_Runner.linkerArgs": [
     "-lm"
@@ -30,15 +32,5 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ],
-  "cmakeFormat.args": [
-    "-lm"
-  ],
-  "C_Cpp.default.compilerArgs": [
-    "-lm"
-  ],
-  "C_Cpp.default.cStandard": "c17",
-  "cmake.buildArgs": [
-    "-lm"
   ]
 }

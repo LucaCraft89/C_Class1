@@ -8,8 +8,5 @@
     ],
     "C_Cpp.default.compilerArgs": [
         "-lm"
-    ],
-    "cmake.buildArgs": [
-        "-lm"
     ]
 }

@@ -1,5 +1,5 @@
 {
-  "C_Cpp_Runner.cCompilerPath": "/bin/gcc",
+  "C_Cpp_Runner.cCompilerPath": "/bin/gcc -lm",
   "C_Cpp_Runner.cppCompilerPath": "/bin/g++",
   "C_Cpp_Runner.cStandard": "c17",
   "C_Cpp_Runner.cppStandard": "c++20",
@@ -30,15 +30,5 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ],
-  "cmakeFormat.args": [
-    "-lm"
-  ],
-  "C_Cpp.default.compilerArgs": [
-    "-lm"
-  ],
-  "C_Cpp.default.cStandard": "c17",
-  "cmake.buildArgs": [
-    "-lm"
   ]
 }

@@ -24,7 +24,7 @@
             "name": "C/C++: gcc build and debug active file",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "program": "${fileDirname}/${fileBasenameNoExtension} -lm",
             "args": [
                 "-lm"
             ],

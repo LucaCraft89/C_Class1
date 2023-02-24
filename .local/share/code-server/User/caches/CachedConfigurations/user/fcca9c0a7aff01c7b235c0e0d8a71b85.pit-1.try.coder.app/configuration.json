@@ -1,0 +1,1 @@
+{"content":"{\n    \"cmakeFormat.args\": [\n        \"-lm\"\n    ],\n    \"C_Cpp.default.compilerArgs\": [\n        \"-lm\"\n    ],\n    \"cmake.buildArgs\": [\n        \"-lm\"\n    ]\n}"}

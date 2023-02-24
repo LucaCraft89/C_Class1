@@ -5,11 +5,5 @@
     "cmake.configureOnOpen": true,
     "cmakeFormat.args": [
         "-lm"
-    ],
-    "C_Cpp.default.compilerArgs": [
-        "-lm"
-    ],
-    "cmake.buildArgs": [
-        "-lm"
     ]
 }

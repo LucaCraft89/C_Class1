@@ -33,12 +33,5 @@
   ],
   "cmakeFormat.args": [
     "-lm"
-  ],
-  "C_Cpp.default.compilerArgs": [
-    "-lm"
-  ],
-  "C_Cpp.default.cStandard": "c17",
-  "cmake.buildArgs": [
-    "-lm"
   ]
 }
