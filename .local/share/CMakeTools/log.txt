@@ -1,18 +1,18 @@
-2023-02-24T08:16:00.335Z [debug] [main] Safe constructing new CMakeProject instance
-2023-02-24T08:16:00.338Z [debug] [variant] Constructing VariantManager
-2023-02-24T08:16:00.355Z [debug] [main] Constructing new CMakeProject instance
-2023-02-24T08:16:00.357Z [debug] [main] Starting CMake Tools second-phase init
-2023-02-24T08:16:01.174Z [info] [variant] Loaded new set of variants
-2023-02-24T08:16:01.204Z [debug] [kit] Reading kits file /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
-2023-02-24T08:16:01.363Z [info] [kit] Successfully loaded 1 kits from /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
-2023-02-24T08:16:01.535Z [debug] [kit] Not reading non-existent kits file: /home/admin/.vscode/cmake-kits.json
-2023-02-24T08:16:01.898Z [debug] [main] CMakeProject instance initialization complete.
-2023-02-24T08:16:03.683Z [debug] [extension] [1232] cmake.buildType started
-2023-02-24T08:16:03.687Z [debug] [extension] [1232] cmake.buildType finished (returned "Debug")
-2023-02-24T08:16:04.420Z [debug] [extension] [8884] cmake.buildDirectory started
-2023-02-24T08:16:04.424Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-24T08:16:04.425Z [debug] [extension] [8884] cmake.buildDirectory finished (returned null)
-2023-02-24T08:16:32.064Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:33:39.725Z [debug] [main] Safe constructing new CMakeProject instance
+2023-02-24T08:33:39.732Z [debug] [variant] Constructing VariantManager
+2023-02-24T08:33:39.737Z [debug] [main] Constructing new CMakeProject instance
+2023-02-24T08:33:39.740Z [debug] [main] Starting CMake Tools second-phase init
+2023-02-24T08:33:40.504Z [info] [variant] Loaded new set of variants
+2023-02-24T08:33:40.592Z [debug] [kit] Reading kits file /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
+2023-02-24T08:33:40.860Z [info] [kit] Successfully loaded 1 kits from /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
+2023-02-24T08:33:40.903Z [debug] [kit] Not reading non-existent kits file: /home/admin/.vscode/cmake-kits.json
+2023-02-24T08:33:40.929Z [debug] [main] CMakeProject instance initialization complete.
+2023-02-24T08:33:43.213Z [debug] [extension] [3962] cmake.buildType started
+2023-02-24T08:33:43.217Z [debug] [extension] [3962] cmake.buildType finished (returned "Debug")
+2023-02-24T08:33:43.805Z [debug] [extension] [4813] cmake.buildDirectory started
+2023-02-24T08:33:43.810Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:33:43.811Z [debug] [extension] [4813] cmake.buildDirectory finished (returned null)
+2023-02-24T08:33:57.546Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:16:36.876Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:16:44.604Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:16:58.074Z [debug] [main] Not starting CMake driver: no kit selected
