@@ -109,3 +109,5 @@
 [2023-02-23 14:41:49.624] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 947
 [2023-02-23 14:41:55.345] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 947
 [2023-02-23 14:42:00.550] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 947
+[2023-02-23 14:42:40.778] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 949
+[2023-02-23 14:42:42.345] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
