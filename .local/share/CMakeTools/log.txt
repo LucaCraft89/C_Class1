@@ -93,13 +93,15 @@
 2023-02-24T08:29:22.060Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:29:24.647Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:29:26.078Z [debug] [main] Not starting CMake driver: no kit selected
- driver: no kit selected
-2023-02-23T14:33:41.977Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-23T14:33:45.022Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-23T14:33:46.899Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-23T14:34:04.702Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-23T14:37:13.501Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-23T14:37:20.510Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-23T14:37:42.405Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-23T14:42:36.446Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-23T14:42:40.155Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:29:36.483Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:30:26.677Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:30:29.928Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:30:41.179Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:30:44.864Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:30:49.975Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:30:52.207Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:30:54.811Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:30:58.058Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:31:06.220Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:31:13.270Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T08:31:15.613Z [debug] [main] Not starting CMake driver: no kit selected
