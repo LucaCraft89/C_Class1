@@ -1,0 +1,51 @@
+[Trace 08:33:39.956] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/admin/README.md
+[Trace 08:33:39.959] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:33:39.963] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:33:40.497] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:33:41.059] DocumentSymbolProvider: provideDocumentSymbols — file:///home/admin/README.md 1
+[Debug 08:33:41.060] LinkProvider: compute - file:///home/admin/README.md
+[Debug 08:33:41.446] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 1
+[Debug 08:33:41.448] TableOfContentsProvider: create - file:///home/admin/README.md
+[Debug 08:33:50.783] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 1
+[Trace 08:33:55.176] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:33:55.178] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:33:55.462] LinkProvider: compute - file:///home/admin/README.md
+[Debug 08:33:56.127] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 2
+[Debug 08:33:56.127] TableOfContentsProvider: create - file:///home/admin/README.md
+[Trace 08:33:56.914] DocumentSymbolProvider: provideDocumentSymbols — file:///home/admin/README.md 2
+[Trace 08:33:57.582] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:33:58.200] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/admin/.local/share/code-server/User/History/-462f2a3/OI5a.md
+[Trace 08:34:02.022] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:34:21.828] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:34:21.828] LinkProvider: compute - file:///home/admin/README.md
+[Debug 08:34:21.885] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 2
+[Debug 08:34:21.885] TableOfContentsProvider: create - file:///home/admin/README.md
+[Trace 08:34:54.439] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:35:07.314] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:35:10.820] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 2
+[Trace 08:35:59.805] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:36:16.339] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Debug 08:36:18.057] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 2
+[Trace 08:36:19.335] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:36:19.395] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:36:19.396] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:36:20.001] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/admin/.local/share/code-server/User/History/-462f2a3/oKdj.md
+[Trace 08:36:20.389] DocumentSymbolProvider: provideDocumentSymbols — file:///home/admin/README.md 3
+[Debug 08:36:20.389] LinkProvider: compute - file:///home/admin/README.md
+[Debug 08:36:20.419] TableOfContentsProvider: create - file:///home/admin/README.md
+[Trace 08:36:20.901] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:36:20.901] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:36:21.346] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:36:21.347] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:36:21.626] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:36:21.723] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/admin/README.md
+[Trace 08:36:21.725] Server: connection.languages.diagnostics.on: file:///home/admin/README.md
+[Trace 08:36:22.289] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/.local/share/code-server/User/History/-462f2a3/oKdj.md
+[Debug 08:36:22.765] LinkProvider: compute - file:///home/admin/README.md
+[Trace 08:36:22.786] DocumentSymbolProvider: provideDocumentSymbols — file:///home/admin/README.md 6
+[Debug 08:36:22.787] TableOfContentsProvider: create - file:///home/admin/README.md
+[Debug 08:36:23.770] MdFoldingProvider: provideFoldingRanges — file:///home/admin/README.md 6
+[Trace 08:36:23.994] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:36:24.668] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/.local/share/code-server/User/History/-462f2a3/oKdj.md
+[Trace 08:36:26.126] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/admin/README.md
+[Trace 08:36:37.711] Server: connection.languages.diagnostics.on: file:///home/admin/README.md

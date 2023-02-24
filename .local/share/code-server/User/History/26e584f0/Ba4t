@@ -1,0 +1,6 @@
+.local/
+.local/*
+.local/share/
+.local/share/*
+.local/share/CMakeTools
+.local/share/code-server/*

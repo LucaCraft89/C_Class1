@@ -1,0 +1,19 @@
+[2023-02-24 08:33:32.971] [exthost] [info] Extension host with pid 119709 started
+[2023-02-24 08:33:33.055] [exthost] [info] Lock '/home/admin/.local/share/code-server/User/workspaceStorage/-525686eb/vscode.lock': Lock acquired.
+[2023-02-24 08:33:34.033] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-02-24 08:33:34.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-02-24 08:33:34.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-02-24 08:33:34.040] [exthost] [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: fredericbonnet.cmake-test-adapter
+[2023-02-24 08:33:35.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-02-24 08:33:35.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-02-24 08:33:35.226] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*', root cause: fredericbonnet.cmake-test-adapter
+[2023-02-24 08:33:36.199] [exthost] [info] ExtensionService#_doActivateExtension fredericbonnet.cmake-test-adapter, startup: true, activationEvent: '*'
+[2023-02-24 08:33:36.824] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: false, activationEvent: 'api', root cause: fredericbonnet.cmake-test-adapter
+[2023-02-24 08:33:38.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-02-24 08:33:38.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-02-24 08:33:41.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2023-02-24 08:33:42.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-24 08:33:42.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-24 08:33:42.595] [exthost] [info] Eager extensions activated
+[2023-02-24 08:33:46.238] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'api', root cause: ms-vscode.cmake-tools
+[2023-02-24 08:35:09.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
