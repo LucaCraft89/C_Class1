@@ -18,7 +18,7 @@ int main()
         printf("inserire gli scatti della bollte attual \n"); scanf("%d", &ba);
     }
     while (ba<bp){
-        printf("la bolletta attuale deve essere più grande");
+        printf("la bolletta attuale deve essere più grande \n");
         printf("inserire gli scatti della bollte precedente \n"); scanf("%d", &bp);
         while (bp<0){
             printf("non può essere minore di 0 \n");
