@@ -78,8 +78,8 @@
 2023-02-24T08:26:22.152Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:26:23.497Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T08:26:33.440Z [debug] [main] Not starting CMake driver: no kit selected
-] Found Kit: GCC 11.3.0 x86_64-linux-gnu
-2023-02-23T14:30:49.914Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
+2023-02-24T08:27:05.262Z [debug] [main] Not starting CMake driver: no kit selected
+d Kit: GCC 11.3.0 x86_64-linux-gnu
 2023-02-23T14:30:49.914Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
 2023-02-23T14:30:49.914Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu
 2023-02-23T14:30:49.915Z [info] [kit] Found Kit: GCC 11.3.0 x86_64-linux-gnu

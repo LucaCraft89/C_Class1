@@ -1,0 +1,21 @@
+i
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'C_Class1/main' by 6 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .local/share/CMakeTools/log.txt
+#	new file:   .local/share/code-server/User/History/57be4aa0/QRHo
+#	modified:   .local/share/code-server/User/History/57be4aa0/entries.json
+#	modified:   .local/share/code-server/User/workspaceStorage/-525686eb/ms-vscode.cpptools/.browse.VC.db-wal
+#	modified:   .local/share/code-server/logs/20230222T143640/exthost14/exthost.log
+#	modified:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/2-Git.log
+#	modified:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/5-Markdown Language Server.log
+#	new file:   .local/share/code-server/logs/20230222T143640/exthost14/vscode.github-authentication/GitHub Authentication.log
+#
+# Changes not staged for commit:
+#	modified:   .local/share/code-server/logs/20230222T143640/exthost14/output_logging_20230224T081552/2-Git.log
+#
