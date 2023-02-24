@@ -13,8 +13,8 @@
 2023-02-24T12:40:47.328Z [debug] [kit] Scanning directory /tmp/code-server/lib/code-server-4.8.3/lib/vscode/bin/remote-cli for compilers
 2023-02-24T12:40:47.328Z [debug] 2023-02-24T12:40:48.360Z [debug] [kit] Reading kits file /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
 2023-02-24T12:40:48.619Z [info] [kit] Successfully loaded 1 kits from /home/admin/.local/share/CMakeTools/cmake-tools-kits.json
-.331Z [debug] [kit] Scanning directory /usr/bin for compilers
-2023-02-24T12:40:47.332Z [debug] [kit] Scanning directory /sbin for compilers
+2023-02-24T12:44:40.822Z [debug] [extension] Deactivate CMakeTools
+02-24T12:40:47.332Z [debug] [kit] Scanning directory /sbin for compilers
 2023-02-24T12:40:47.333Z [debug] [kit] Scanning directory /bin for compilers
 2023-02-24T12:40:47.333Z [debug] [kit] Scanning directory /tmp/coder.9I5kbV for compilers
 2023-02-24T12:40:47.334Z [debug] [kit] Skipping scan of not existing path undefined\LLVM\bin
@@ -97,11 +97,99 @@
 2023-02-24T12:40:48.954Z [debug] [main] Not starting CMake driver: no kit selected
 2023-02-24T12:40:48.954Z [debug] [extension] [2492] cmake.buildDirectory finished (returned null)
 2023-02-24T12:41:25.910Z [debug] [main] Not starting CMake driver: no kit selected
-arting CMake driver: no kit selected
-2023-02-24T08:30:49.975Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-24T08:30:52.207Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-24T08:30:54.811Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-24T08:30:58.058Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-24T08:31:06.220Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-24T08:31:13.270Z [debug] [main] Not starting CMake driver: no kit selected
-2023-02-24T08:31:15.613Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:42:09.879Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:44:38.169Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:44:40.494Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:44:47.214Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:44:57.793Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:03.826Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:07.146Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:15.584Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:18.677Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:28.009Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:33.544Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:40.815Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:44.774Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:48.431Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:51.487Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:45:53.787Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:46:30.169Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:46:31.459Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:46:33.862Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:46:38.156Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:46:47.616Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:46:55.003Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:47:42.350Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:47:43.881Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:47:45.275Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:47:49.440Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:47:54.491Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:47:57.718Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:00.100Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:03.074Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:07.429Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:08.901Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:12.097Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:15.974Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:22.863Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:26.204Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:30.354Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:43.661Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:48:46.890Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:50:47.079Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:50:51.979Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:50:59.191Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:51:00.810Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:51:07.412Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:51:12.133Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:51:16.178Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:51:18.613Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:51:25.580Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:51:29.833Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:51:42.738Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:54:50.620Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:54:52.535Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:54:54.890Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:54:57.667Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:54:59.729Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:55:02.689Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:55:04.121Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:56:24.900Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:56:27.242Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:56:50.788Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:56:53.980Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:56:56.211Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:56:57.723Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:01.868Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:04.658Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:08.046Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:42.846Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:44.784Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:46.647Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:49.392Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:51.285Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:57:54.628Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:23.783Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:33.415Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:37.507Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:43.260Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:45.217Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:47.926Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:52.925Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:54.834Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:56.854Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T12:59:59.329Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:08.477Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:16.106Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:17.851Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:19.657Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:22.816Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:25.466Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:27.184Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:29.603Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:35.028Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:39.175Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:42.413Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:49.280Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:51.444Z [debug] [main] Not starting CMake driver: no kit selected
+2023-02-24T13:00:52.544Z [debug] [main] Not starting CMake driver: no kit selected
