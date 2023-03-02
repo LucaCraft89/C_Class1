@@ -8,6 +8,6 @@ int main()
     printf("inerisci a: \n"); scanf("%d", &a);
     printf("inerisci b: \n"); scanf("%d", &b);
     c=(float)a/b;
-    printf("c vale: %.2f \n", c);
+    printf("c vale: %.1f \n", c);
     return 0;
 }
