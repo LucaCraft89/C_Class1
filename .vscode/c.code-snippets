@@ -27,5 +27,31 @@
 		  "}",
 		],
 		"description": "A C Template"
+	},
+	"cc": {
+		"prefix": ["c", "c_template"],
+		"body":[
+		  "#include <stdio.h>",
+		  "#include <stdlib.h>",
+		  "",
+		  "/* Titolo",
+		  "",
+		  "*/",
+		  "/* Breve Descrizione",
+		  "",
+		  "*/",
+		  "/* Input richiesti",
+		  "",
+		  "*/",
+		  "/* Output richiesti",
+		  "",
+		  "*/",
+		  "",
+		  "int main()",
+		  "{",
+			"	return 0;",
+		  "}",
+		],
+		"description": "A C Template"
 	}
 }
