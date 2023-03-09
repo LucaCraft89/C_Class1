@@ -1,9 +1,22 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
+/* Titolo
     Programma per la soluzione di un sistema binario con metodo di cramer
 */
+
+/* Breve deccrizione
+    Un programma scritto in c per risolvere un sistema binario composto da 2 equazioni
+*/
+
+/* Input richiesti
+    I coefficienti e termini noti
+*/
+
+/* Output richiesti
+    Le soluzioni X e Y
+*/
+
 
 int main()
 {
@@ -19,16 +32,16 @@ int main()
     dy = (a*c1) - (a1*c)
     */
 
-    /* Calcolo soluzione 
-    x = dx/d
-    y = dy/d    
-    */
-   
     /* Condizioni
     d = 0 e dx = 0 = Imposssibile
     solo d = 0 = indeterminata
     */
 
+    /* Calcolo soluzione 
+    x = dx/d
+    y = dy/d    
+    */
+   
     // Stampo a schermo il sistema di riferimanto
     printf("Prendendo di riferimento il seguente sistema: \n ax + by = c \n a1x + b1y = c1 \n");
 
@@ -52,7 +65,7 @@ int main()
     }
     else if (d==0 && d!=0)
     {
-        //solo d = 0 quindi è indeterminata
+        // solo d = 0 quindi è indeterminata
         printf("L'equazione è indeterminata \n");
     }
     else
