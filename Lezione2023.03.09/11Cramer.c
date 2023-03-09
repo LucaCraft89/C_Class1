@@ -43,7 +43,7 @@ int main()
     */
    
     // Stampo a schermo il sistema di riferimanto
-    printf("Prendendo di riferimento il seguente sistema: \n ax + by = c \n a1x + b1y = c1 \n");
+    printf("Prendendo di riferimento il seguente sistema: \n ax + by = c \n a1x + b1y = c1 \n \n");
 
     // Chiedo in input i ceafficienti e le variabili necessarie per il calcolo
     printf("Inserire il coefficiente a: \n"); scanf("%f", &a);
