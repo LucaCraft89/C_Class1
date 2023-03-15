@@ -35,7 +35,7 @@ int main()
     /* Condizioni
     d = 0 e dx = 0 = Imposssibile
     solo d = 0 = indeterminata
-    */
+      */
 
     /* Calcolo soluzione 
     x = dx/d
