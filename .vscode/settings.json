@@ -40,5 +40,6 @@
   "C_Cpp.default.cStandard": "c17",
   "cmake.buildArgs": [
     "-lm"
-  ]
+  ],
+  "cmake.configureOnOpen": false
 }
