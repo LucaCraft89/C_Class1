@@ -4,17 +4,15 @@
 
 int main()
 {
-    int i, n, p,iw;
-    printf("Inserisci il nu7mero di numeri dácui fare il quadrato \n"); scanf("%d", &n);
-    for ( i = 1; i < n+1; i++)
+    int i, q, j, d, n;
+    printf("iserisci n \n"); scanf("%d", &n);
+    i=0; d=1; q=0;
+    do
     {
-        for ( iw = 0; iw < count; iw++)
-        {
-            /* code */
-        }
-        
-        printf("%d ^ 2 = %d \n", i, p);
-    }
-    
+        q=q+d; 
+        d=d+2;
+        i=i+1;
+    } while (i<n);
+    printf("%d \n", q);
     return 0;
 }
