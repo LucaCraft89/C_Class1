@@ -1,8 +1,0 @@
-{
-    "cmakeFormat.args": [
-        "-lm"
-    ],
-    "C_Cpp.default.compilerArgs": [
-        "-lm"
-    ]
-}
