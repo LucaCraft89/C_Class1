@@ -3,7 +3,7 @@
 
 int main()
 {
-    int i, a; i=0;
+    int i=0, a;
     printf("Iserisci il numero: \n"); scanf("%d", &a);
     while (a<=0)
     {
