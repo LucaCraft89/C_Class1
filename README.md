@@ -15,7 +15,7 @@ Procedimento:
          ```
          git clone https://github.com/LucaCraft89/C_Class1.git
          ```  
-      1. Da Visual Studio Code:
+      * Da Visual Studio Code:
         - 1. Aprire la tavolozza dei comandi con la combinazione di tasti **[CTRL]** + **[MAIUSC/SHIFT]** + **[P]**.
         - 2. Al prompt dei comandi immettere `gitcl`, selezionare il comando `Git: Clona`, quindi selezionare Clona da GitHub e premere` **[INVIO]**.
         [1](https://learn.microsoft.com/it-it/azure/developer/javascript/media/how-to-clone-github-repo/visual-studio-code-git-clone.png)
