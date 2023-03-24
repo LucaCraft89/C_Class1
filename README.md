@@ -1,15 +1,32 @@
 # J.F.Kennedy Gruppo STA ABEH AS2223_Q2_G04_IA
 Repository ufficiale del Gruppo STA ABEH AS2223_Q2_G04_IA per le lezioni e programmazione con codespaces
 
-## Come accedere al codespace
+## Come usare questa repository per scrivere C/C++
 
-NOTA BENE: Le credenziali sono fornite da [@LucaCraft89](https://github.com/LucaCraft89)
+Requisiti:
+     - Compilatore gcc installato (Riferirsi alla documentazione ufficiale di Microsoft https://code.visualstudio.com/docs/languages/cpp )
+     - Visual Studio Code 
+     - Git installato sul prorio PC (Cercare su google in base al vostro sitema operativo)
 
- - Step 1. Digitare nella barra degl indirizzi del browser [https://code.dallh2o.com](https://code.dallh2o.com)
- - Step 2. Digitare le proprie credenziali e premere **[ENTER]** oppure premere su **[Sign In]**
- - Step 3. Una volta eseguito l'accesso preme sul Workspace con il proprio nome 
- - Step 4. Quindi premere su <img src="https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/73WYC8Ec4zz9cyC?file=/&fileId=531&x=1920&y=1200&a=true" width="111" height="30">
- - Step 5. Cominciare a scrivere codice
+Procedimento:
+     - Dopo aver consolidato che il compilatore gcc funziona procedere come segue:
+     - Clonare questa repository in locale sul propio pc:
+         - Da riga di comando all'interno della cartella desiderata:
+            ``` git clone https://github.com/LucaCraft89/C_Class1.git ```
+         - Da Visual Studio Code:
+            1. Aprire la tavolozza dei comandi con la combinazione di tasti **[CTRL]** + **[MAIUSC/SHIFT]** + **[P]**.
+            2. Al prompt dei comandi immettere gitcl, selezionare il comando `Git: Clona` , quindi selezionare Clona da GitHub e premere **[INVIO]**.
+               ![Git: Clone](https://learn.microsoft.com/it-it/azure/developer/javascript/media/how-to-clone-github-repo/visual-studio-code-git-clone.png)
+
+            3. Quando viene richiesto l'URL del repository, selezionare clone da GitHub e quindi premere INVIO.
+
+            4. Se viene chiesto di accedere a GitHub, completare il processo di accesso.
+
+            5. Immettere `https://github.com/LucaCraft89/C_Class1` nel campo URL repository .
+
+            6. Quando si riceve la notifica che chiede se si vuole aprire il repository clonato, selezionare Apri.
+
+      - Fonte: [Microsoft Docs](https://learn.microsoft.com/it-it/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette)
 
 ## Come Usare Il Template
 
@@ -31,8 +48,6 @@ Come Compilare ed eseguire:
 - Step 1: Premere il tasto play con una piccola coccinella in alto a destra sullo schermo con il file aperto a schermo come indicato in figura
 - Step 2: Nella parte inferiore dello schermo si aprirà un terminale quindi aspettare qualche secondo 
 - Step 3: Ora il programma è in esecuzione ed una volta terminato l'output è situato nella scheda "Terminal" o "Terminale" nella parte inferiore dello schermo
-
-![Compilatore](https://cloud.dallh2o.com/index.php/apps/files_sharing/publicpreview/PxYie5aom8YCXk8?file=/&fileId=479&x=1920&y=1200&a=true)
 
 ## Authors
 
