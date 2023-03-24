@@ -13,8 +13,8 @@ Procedimento:
    - Clonare questa repository in locale sul propio pc:
       - Da riga di comando all'interno della cartella desiderata:
 
-         `git clone https://github.com/LucaCraft89/C_Class1.git`  
-                
+         ``git clone https://github.com/LucaCraft89/C_Class1.git``  
+
       - Da Visual Studio Code:
       - 1. Aprire la tavolozza dei comandi con la combinazione di tasti **[CTRL]** + **[MAIUSC/SHIFT]** + **[P]**.
       - 2. Al prompt dei comandi immettere `gitcl`, selezionare il comando `Git: Clona`, quindi selezionare Clona da GitHub e premere` **[INVIO]**.
