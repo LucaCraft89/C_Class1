@@ -38,7 +38,7 @@ Per creare un nuovo file con il template:
 
 ## Come eseguire Complilare ed eseguire il file
 
-Utilizziamo **GCC** 
+Utilizziamo *gcc*
 
 Come Compilare ed eseguire:
 
