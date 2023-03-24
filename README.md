@@ -20,13 +20,13 @@ Procedimento:
       ### Da Visual Studio Code:
         - 1. Aprire la tavolozza dei comandi con la combinazione di tasti **[CTRL]** + **[MAIUSC/SHIFT]** + **[P]**.
         - 2. Al prompt dei comandi immettere `gitcl`, selezionare il comando `Git: Clona`, quindi selezionare Clona da GitHub e premere` **[INVIO]**.
-          [1](https://learn.microsoft.com/it-it/azure/developer/javascript/media/how-to-clone-github-repo/visual-studio-code-git-clone.png)
+          ![1](https://learn.microsoft.com/it-it/azure/developer/javascript/media/how-to-clone-github-repo/visual-studio-code-git-clone.png)
         - 3. Quando viene richiesto l'URL del repository, selezionare clone da GitHub e quindi premere INVIO.
         - 4. Se viene chiesto di accedere a GitHub, completare il processo di accesso.
         - 5. Immettere `https://github.com/LucaCraft89/C_Class1` nel campo URL repository.
         - 6. Quando si riceve la notifica che chiede se si vuole aprire il repository clonato, selezionare Apri.
 
-      - Fonte: [Microsoft Docs](https://learn.microsoft.com/it-it/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette)
+      Fonte: [Microsoft Docs](https://learn.microsoft.com/it-it/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette)
 
 ## Come Usare Il Template
 
