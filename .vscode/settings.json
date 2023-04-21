@@ -13,10 +13,12 @@
   "C_Cpp_Runner.enableWarnings": true,
   "C_Cpp_Runner.warningsAsError": false,
   "C_Cpp_Runner.compilerArgs": [
-    "-lm"
+    "-lm",
+    "-Wint-conversion"
   ],
   "C_Cpp_Runner.linkerArgs": [
-    "-lm"
+    "-lm",
+    "-Wint-conversion"
   ],
   "C_Cpp_Runner.includePaths": [],
   "C_Cpp_Runner.includeSearch": [
@@ -32,14 +34,17 @@
     "**/.vscode/**"
   ],
   "cmakeFormat.args": [
-    "-lm"
+    "-lm",
+    "-Wint-conversion"
   ],
   "C_Cpp.default.compilerArgs": [
-    "-lm"
+    "-lm",
+    "-Wint-conversion"
   ],
   "C_Cpp.default.cStandard": "c17",
   "cmake.buildArgs": [
-    "-lm"
+    "-lm",
+    "-Wint-conversion"
   ],
   "cmake.configureOnOpen": false
 }

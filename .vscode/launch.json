@@ -26,7 +26,8 @@
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [
-                "-lm"
+                "-lm",
+                "-Wint-conversion"
             ],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
