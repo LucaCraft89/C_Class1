@@ -1,23 +1,28 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int a, b, c;
 
-int sum(){
+int tim(a,b){
+    int ris;
+    ris=a*b;
+    return ris;
+}
+int sum(a,b){
     int ris;
     ris=a+b;
     return ris;
 }
-int diff(){
+int diff(a,b){
     int ris;
     ris=a-b;
     return ris;
 }
 int main()
 {
+    int a, b, c;
     a=3;
     b=4;
-    c=diff();
+    c=tim(a,b);
     printf("%d \n", c);
     return 0;
 }
