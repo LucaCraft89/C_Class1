@@ -17,12 +17,24 @@ int diff(a,b){
     ris=a-b;
     return ris;
 }
+float divv(a,b){
+    float ris;
+    ris=(float)a/b;
+    return ris;
+}
 int main()
 {
-    int a, b, c;
-    a=3;
-    b=4;
-    c=tim(a,b);
-    printf("%d \n", c);
+    int a, b, somm, sotr, molt;
+    float div;
+    printf("inserire a: ");
+    scanf("%d", &a); 
+    printf("Inserire b: ");
+    scanf("%d", &b); 
+    printf("\n");
+    molt=tim(a,b);
+    somm=sum(a,b);
+    div=divv(a,b);
+    sotr=diff(a,b);
+    printf("Addizione: %d \nSottrazione: %d \nMoltiplicazione: %d \nDivisione: %.2f \n", somm, sotr, molt, div);
     return 0;
 }
