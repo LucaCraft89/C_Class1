@@ -9,7 +9,6 @@
                 "-g",
                 "${file}",
                 "-lm",
-                "-Wint-conversion",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
@@ -32,8 +31,7 @@
                 "${file}",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "-lm",
-                "-Wint-conversion"
+                "-lm"
             ],
             "options": {
                 "cwd": "C:\\msys64\\mingw64\\bin"
