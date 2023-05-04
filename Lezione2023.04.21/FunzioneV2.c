@@ -2,32 +2,30 @@
 #include <stdlib.h>
 #include <string.h>
 
-int tim(a,b){
-    int ris;
+int a, b, ris;
+
+int tim(){
     ris=a*b;
     return ris;
 }
-int sum(a,b){
-    int ris;
+int sum(){
     ris=a+b;
     return ris;
 }
-int diff(a,b){
-    int ris;
+int diff(){
     ris=a-b;
     return ris;
 }
-int divv(a,b){
-    int ris;
-    ris=(float)a/b;
+int divv(){
+    ris=a/b;
     return ris;
 }
 int main()
 {
-    int a, b, somm, sotr, molt, sw=5;
-    int div;
+    int sw=5;
     char choice;
-    char *plus = "+" , minus = "-", times = "*" , divide = "/";
+    short plus = {'+', 0}, minus = {'-',0 }, times = {'*',0 }, divide = {'/',0 };
+    char *plusp = &plus, minusp = &minus, timesp = &times, dividep = &divide;
     printf("inserire a: ");
     scanf("%d", &a); 
     printf("Inserire b: ");
@@ -35,12 +33,33 @@ int main()
     printf("Inserire il simbolo della operazione desiderata: ");
     scanf("%s", &choice);
     printf("\n");
-    molt=tim(a,b); somm=sum(a,b); div=divv(a,b); sotr=diff(a,b);
-    while (sw=5)
+    int molt=tim(), somm=sum(), div=divv(), sotr=diff();
+    if (choice==plus)
+    {
+        sw=1;
+    }
+    else if (choice==minus)
+    {
+        sw=2;
+    }
+    else if (choice==times)
+    {
+        sw=3;
+    }
+    else if (choice==divide)
+    {
+        sw=4;
+    }
+    else
+    {
+        sw=5;
+    }
+    /*while (sw=5)
         {
-            printf("Selezione non valida (+,-,*,/): ");
-            scanf("%c", &choice);
-            printf("%c", choice);
+            printf("Selezione non valida (+,-,*,/) ");
+            printf("Inserire il simbolo della operazione desiderata: ");
+            scanf("%s", &choice);
+            printf("\n");
             if (choice==plus)
             {
                 sw=1;
@@ -61,7 +80,7 @@ int main()
             {
                 sw=5;
             }
-        }
+        } */
     switch (sw)
     {
     case 1:
