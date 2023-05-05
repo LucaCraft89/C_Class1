@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="lucac"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-05-05 02:24:40 PM"/>
+        <attribute name="created" value="bHVjYWM7TEM4OVJZWkVOTEFQOzIwMjMtMDUtMDU7MDI6MDY6MDcgUE07MjY4MQ=="/>
+        <attribute name="edited" value="bHVjYWM7TEM4OVJZWkVOTEFQOzIwMjMtMDUtMDU7MDI6MjQ6NDAgUE07OTsyNzk0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n, nn, molt, div" type="Integer" array="False" size=""/>
+            <output expression="&quot;Inserire primo numero: &quot;" newline="True"/>
+            <input variable="n"/>
+            <output expression="&quot;Inserire secondo numero: &quot;" newline="True"/>
+            <input variable="nn"/>
+            <while expression="controllo(nn)==0">
+                <output expression="&quot;Il secondo numero (divisore) non pu&#242; essere 0&quot;" newline="True"/>
+                <output expression="&quot;Inserire secondo numero: &quot;" newline="True"/>
+                <input variable="nn"/>
+            </while>
+            <assign variable="molt" expression="molt(n, nn)"/>
+            <assign variable="div" expression="div(n, nn)"/>
+            <output expression="&quot;Moltiplicazione &quot;&amp;n&amp;&quot;*&quot;&amp;nn&amp;&quot; = &quot;&amp;molt" newline="True"/>
+            <output expression="&quot;Divisione &quot;&amp;n&amp;&quot;/&quot;&amp;nn&amp;&quot; = &quot;&amp;div" newline="True"/>
+        </body>
+    </function>
+    <function name="controllo" type="Integer" variable="good">
+        <parameters>
+            <parameter name="nn" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="good" type="Integer" array="False" size=""/>
+            <if expression="nn==0">
+                <then>
+                    <assign variable="good" expression="0"/>
+                </then>
+                <else>
+                    <assign variable="good" expression="1"/>
+                </else>
+            </if>
+        </body>
+    </function>
+    <function name="div" type="Integer" variable="ris">
+        <parameters>
+            <parameter name="n" type="Integer" array="False"/>
+            <parameter name="nn" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="ris" type="Integer" array="False" size=""/>
+            <assign variable="ris" expression="n/nn"/>
+        </body>
+    </function>
+    <function name="molt" type="Integer" variable="ris">
+        <parameters>
+            <parameter name="n" type="Integer" array="False"/>
+            <parameter name="nn" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="ris" type="Integer" array="False" size=""/>
+            <assign variable="ris" expression="n*nn"/>
+        </body>
+    </function>
+</flowgorithm>

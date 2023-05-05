@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="lucac"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-05-05 02:44:04 PM"/>
+        <attribute name="created" value="bHVjYWM7TEM4OVJZWkVOTEFQOzIwMjMtMDUtMDU7MDI6MzA6MTYgUE07MjY3OA=="/>
+        <attribute name="edited" value="bHVjYWM7TEM4OVJZWkVOTEFQOzIwMjMtMDUtMDU7MDI6NDQ6MDQgUE07MTsyNzg4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n, ris, sel" type="Integer" array="False" size=""/>
+            <output expression="&quot;inserire il numero: &quot;" newline="True"/>
+            <input variable="n"/>
+            <output expression="&quot;Inserire cosa si desidera fare (1=quadrato, 2=cubo, 3=radice): &quot;" newline="True"/>
+            <input variable="sel"/>
+            <call expression="selection(n, sel)"/>
+        </body>
+    </function>
+    <function name="cube" type="Integer" variable="ris">
+        <parameters>
+            <parameter name="n" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="ris" type="Integer" array="False" size=""/>
+            <assign variable="ris" expression="n^3"/>
+        </body>
+    </function>
+    <function name="mysqrtn" type="Integer" variable="ris">
+        <parameters>
+            <parameter name="n" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="ris" type="Integer" array="False" size=""/>
+            <assign variable="ris" expression="sqrt(n)"/>
+        </body>
+    </function>
+    <function name="selection" type="Integer" variable="ris">
+        <parameters>
+            <parameter name="n" type="Integer" array="False"/>
+            <parameter name="sel" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="ris" type="Integer" array="False" size=""/>
+            <if expression="sel==1">
+                <then>
+                    <assign variable="ris" expression="square(n)"/>
+                    <output expression="&quot;Quadrato di &quot;&amp;n&amp;&quot; : &quot;&amp;ris" newline="True"/>
+                </then>
+                <else>
+                    <if expression="sel==2">
+                        <then>
+                            <assign variable="ris" expression="cube(n)"/>
+                            <output expression="&quot;Cubo di &quot;&amp;n&amp;&quot; : &quot;&amp;ris" newline="True"/>
+                        </then>
+                        <else>
+                            <if expression="sel==3">
+                                <then>
+                                    <assign variable="ris" expression="mysqrt(n)"/>
+                                    <output expression="&quot;Radice di &quot;&amp;n&amp;&quot; : &quot;&amp;ris" newline="True"/>
+                                </then>
+                                <else>
+                                    <output expression="&quot;Selezione invalida&quot;" newline="True"/>
+                                    <assign variable="ris" expression="0"/>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+    <function name="square" type="Integer" variable="ris">
+        <parameters>
+            <parameter name="n" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="ris" type="Integer" array="False" size=""/>
+            <assign variable="ris" expression="n^2"/>
+        </body>
+    </function>
+</flowgorithm>
