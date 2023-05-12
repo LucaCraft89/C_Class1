@@ -48,6 +48,10 @@ void stampasol(float x, float xx){
     printf("------- Soluzioni -------- \n\n       x_1 = %.2f       \n       x_2 = %.2f      \n\n--------------------------", x, xx);
 }
 
+void impossibile(){
+    printf("\n Delta minore di 0: \n ------------------------- \n | Equazione Impossibile | \n -------------------------");
+}
+
 int main()
 {
     float a, b, c, dlt, x, xx, i, ii;
@@ -69,13 +73,16 @@ int main()
     dlt=delta(a, b, c);
     if (dlt<0)
     {
-        printf("\n Delta minore di 0: \n ------------------------- \n | Equazione Impossibile | \n -------------------------");
+        impossibile();
     }
-    printf("\nCalcolo il delta; \n \n   b^2 - 4ac = %.2f - 4(%.2f)(%.2f) = %.2f \n \n", b, a, c, dlt);   
-    x=sol(a, b, dlt);
-    printf("Calcolo possibili soluzioni: \n \n   x_1= (-b + sqrt(delta))/(2*a) = (-%.2f + sqrt(%.2f))/(2*%.2f) = %.2f \n ", b, dlt, a, x);
-    xx=soll(a, b, dlt);
-    printf("\n   x_2= (-b - sqrt(delta))/(2*a) = (-%.2f - sqrt(%.2f))/(2*%.2f) = %.2f \n \n", b, dlt, a, xx);
-    stampasol(x, xx);
+    else
+    { 
+        printf("\nCalcolo il delta; \n \n   b^2 - 4ac = %.2f - 4(%.2f)(%.2f) = %.2f \n \n", b, a, c, dlt);   
+        x=sol(a, b, dlt);
+        printf("Calcolo possibili soluzioni: \n \n   x_1= (-b + sqrt(delta))/(2*a) = (-%.2f + sqrt(%.2f))/(2*%.2f) = %.2f \n ", b, dlt, a, x);
+        xx=soll(a, b, dlt);
+        printf("\n   x_2= (-b - sqrt(delta))/(2*a) = (-%.2f - sqrt(%.2f))/(2*%.2f) = %.2f \n \n", b, dlt, a, xx);
+        stampasol(x, xx);
+    }
     return 0;
 }
