@@ -6,7 +6,7 @@ today = datetime.datetime.today()
 weekday = today.weekday()
 
 if weekday == 3 or weekday == 4:  # Thursday or Friday
-    folder_name = "Lezionee" + today.strftime('%Y.%m.%d')
+    folder_name = "Lezione" + today.strftime('%Y.%m.%d')
     repo_path = "C:\\Users\\lucac\\CDv"  # Replace with the actual path to your GitHub repo
 
     os.chdir(repo_path)  # Change to the repository directory

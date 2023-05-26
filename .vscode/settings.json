@@ -46,5 +46,8 @@
     "-lm",
     "-Wint-conversion"
   ],
-  "cmake.configureOnOpen": false
+  "cmake.configureOnOpen": false,
+  "files.associations": {
+    "string.h": "c"
+  }
 }
